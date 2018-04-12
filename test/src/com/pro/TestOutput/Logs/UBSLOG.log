@@ -1,0 +1,15 @@
+03/09/2015 12:46:29 devpinoyLogger **************************************************************
+03/09/2015 12:46:29 devpinoyLogger Initializing PageFactory for ChargeAccountChange API
+03/09/2015 12:46:29 devpinoyLogger Opening the given URL
+03/09/2015 12:46:31 devpinoyLogger Trying to login
+03/09/2015 12:46:33 devpinoyLogger UserName entered Successfully
+03/09/2015 12:46:33 devpinoyLogger Password Entered Successfully
+03/09/2015 12:46:35 devpinoyLogger Clicked on Login Button Successfully
+03/09/2015 12:46:37 devpinoyLogger Killing the Previous Session
+03/09/2015 12:46:43 devpinoyLogger Previous Session was killed successfully
+03/09/2015 12:46:44 devpinoyLogger Switching to Intellect Suite window to click on Intellect Core Link
+03/09/2015 12:46:52 devpinoyLogger Trying to Click on Intellect Core Link by using LINK TEXT
+03/09/2015 12:46:53 devpinoyLogger Clicked on INTELLECT CORE Successfully using JavaScript
+03/09/2015 12:47:04 devpinoyLogger Trying to Switch to HOME PAGE
+03/09/2015 12:47:05 devpinoyLogger Successfully Switched to HOME PAGE
+03/09/2015 12:47:06 devpinoyLogger Entered 6200071626 into [[InternetExplorerDriver: internet explorer on WINDOWS (de9d5c62-0b55-4042-8f5f-a03c9d905589)] -> name: ac_card_no]
